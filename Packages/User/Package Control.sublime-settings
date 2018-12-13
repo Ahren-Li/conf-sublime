@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ADBView",
+		"Colorsublime",
+		"Devicetree DTS Highlighting",
+		"DokuWiki Syntax",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer"
+	]
+}
